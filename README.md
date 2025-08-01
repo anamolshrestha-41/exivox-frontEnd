@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/200x200/3B82F6/FFFFFF?text=EXIVOX" alt="Exivox Logo" width="120" height="120">
-  
+<div align="center">  
   # EXIVOX
   
   ### *The Future of Social Learning*
@@ -104,12 +102,12 @@ npm run dev
 
 | Component | Status | Progress |
 |-----------|--------|----------|
-| 🎨 **UI/UX Design** | ✅ Complete | ![100%](https://progress-bar.dev/100) |
-| ⚛️ **Core Features** | ✅ Complete | ![100%](https://progress-bar.dev/100) |
-| 🤖 **AI Integration** | ✅ Complete | ![100%](https://progress-bar.dev/100) |
-| 🔒 **Security Layer** | ✅ Complete | ![100%](https://progress-bar.dev/100) |
-| 📱 **Mobile Ready** | ✅ Complete | ![100%](https://progress-bar.dev/100) |
-| 🌐 **Backend API** | 🔄 In Progress | ![75%](https://progress-bar.dev/75) |
+| 🎨 **UI/UX Design** | ✅ Complete    |
+| ⚛️ **Core Features** | ✅ Complete   |
+| 🤖 **AI Integration** | ✅ Complete  | 
+| 🔒 **Security Layer** | ✅ Complete  |
+| 📱 **Mobile Ready** | ✅ Complete    |
+| 🌐 **Backend API** | 🔄 In Progress  |  
 
 </div>
 
