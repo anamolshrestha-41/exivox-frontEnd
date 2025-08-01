@@ -8,7 +8,6 @@
   **Where Knowledge Meets Community**
   
   [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/exivox/frontend)
-  [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
   [![React](https://img.shields.io/badge/React-18.2.0-61DAFB.svg)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6.svg)](https://www.typescriptlang.org/)
   [![Tailwind](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC.svg)](https://tailwindcss.com/)
@@ -72,17 +71,6 @@
 
 ## 🏗️ **Built for the Future**
 
-```mermaid
-graph TD
-    A[React 18 + TypeScript] --> B[Modern Architecture]
-    B --> C[Tailwind CSS]
-    B --> D[Zustand State]
-    B --> E[Socket.io Real-time]
-    C --> F[Responsive Design]
-    D --> G[Optimized Performance]
-    E --> H[Live Collaboration]
-```
-
 ### **Tech Stack**
 - ⚛️ **React 18** - Latest features & performance
 - 🔷 **TypeScript** - Type-safe development
@@ -140,23 +128,6 @@ npm run dev
 | Desktop-first design | **Mobile-native experience** |
 
 </div>
-
----
-
-## 🌍 **Join the Revolution**
-
-<div align="center">
-
-**Ready to be part of the future?**
-
-[![Star this repo](https://img.shields.io/github/stars/exivox/frontend?style=social)](https://github.com/exivox/frontend/stargazers)
-[![Follow us](https://img.shields.io/twitter/follow/exivox?style=social)](https://twitter.com/exivox)
-[![Join Discord](https://img.shields.io/discord/123456789?style=social&logo=discord)](https://discord.gg/exivox)
-
-### 📧 **Stay Updated**
-[Subscribe to our newsletter](https://exivox.com/newsletter) • [Follow our blog](https://blog.exivox.com) • [Join our community](https://community.exivox.com)
-
----
 
 **Built with ❤️ by the Exivox Team**
 
